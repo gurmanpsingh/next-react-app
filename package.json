@@ -1,5 +1,5 @@
 {
-  "name": "GetMyFormula",
+  "name": "nextapp",
   "scripts": {
     "start": "node server/index.js",
     "build": "next build"
