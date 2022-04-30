@@ -2,16 +2,16 @@
 
 This project is to fetch the product from limelight and checkout through nextjs app
 
-# Install the required packages
+Install the required packages
 npm install
 
-# If all packages are installed, Use below command to generate the build folder
+If all packages are installed, Use below command to generate the build folder
 npm run build
 
-# Start the node server
+Start the node server
 npm start
 
-# Create the .env file on root and add the below details
+Create the .env file on root and add the below details
 
 USER_ID=limelightCRM_user
 
@@ -37,10 +37,10 @@ NODE_DEV=dev
 
 PORT=3000
 
-BASEURL=http://54.82.183.170:3000
+BASEURL=http://192.168.127.1:3000
 
-REACT_APP_BASE_URL = http://54.82.183.170:3000
+REACT_APP_BASE_URL = http://192.168.127.1:3000
 
-# dev for development; production for Production app (byDefault it is true for dev)
+dev for development; production for Production app (byDefault it is true for dev)
 
 NODE_DEV=dev
